@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kittens-moserella/static/css/main.90ee0919.chunk.css",
-    "main.js": "/kittens-moserella/static/js/main.edd55256.chunk.js",
-    "main.js.map": "/kittens-moserella/static/js/main.edd55256.chunk.js.map",
+    "main.js": "/kittens-moserella/static/js/main.ea2451aa.chunk.js",
+    "main.js.map": "/kittens-moserella/static/js/main.ea2451aa.chunk.js.map",
     "runtime-main.js": "/kittens-moserella/static/js/runtime-main.85e51c87.js",
     "runtime-main.js.map": "/kittens-moserella/static/js/runtime-main.85e51c87.js.map",
     "static/js/2.c706bae7.chunk.js": "/kittens-moserella/static/js/2.c706bae7.chunk.js",
     "static/js/2.c706bae7.chunk.js.map": "/kittens-moserella/static/js/2.c706bae7.chunk.js.map",
     "index.html": "/kittens-moserella/index.html",
-    "precache-manifest.2c05d4c01b138225408e8bbe2a507243.js": "/kittens-moserella/precache-manifest.2c05d4c01b138225408e8bbe2a507243.js",
+    "precache-manifest.df3f767dc53c393650094122f142f9e7.js": "/kittens-moserella/precache-manifest.df3f767dc53c393650094122f142f9e7.js",
     "service-worker.js": "/kittens-moserella/service-worker.js",
     "static/css/main.90ee0919.chunk.css.map": "/kittens-moserella/static/css/main.90ee0919.chunk.css.map",
     "static/js/2.c706bae7.chunk.js.LICENSE.txt": "/kittens-moserella/static/js/2.c706bae7.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.85e51c87.js",
     "static/js/2.c706bae7.chunk.js",
     "static/css/main.90ee0919.chunk.css",
-    "static/js/main.edd55256.chunk.js"
+    "static/js/main.ea2451aa.chunk.js"
   ]
 }

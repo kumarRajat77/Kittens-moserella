@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kittens-moserella/precache-manifest.2c05d4c01b138225408e8bbe2a507243.js"
+  "/kittens-moserella/precache-manifest.df3f767dc53c393650094122f142f9e7.js"
 );
 
 self.addEventListener('message', (event) => {

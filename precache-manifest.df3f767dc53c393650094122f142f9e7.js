@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c40013bc84698b0da687b9a996db2503",
+    "revision": "b78db7f9361f632607d164244a00e154",
     "url": "/kittens-moserella/index.html"
   },
   {
-    "revision": "3e31a9a98e420da1c453",
+    "revision": "00424117ee1171286239",
     "url": "/kittens-moserella/static/css/main.90ee0919.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kittens-moserella/static/js/2.c706bae7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e31a9a98e420da1c453",
-    "url": "/kittens-moserella/static/js/main.edd55256.chunk.js"
+    "revision": "00424117ee1171286239",
+    "url": "/kittens-moserella/static/js/main.ea2451aa.chunk.js"
   },
   {
     "revision": "0008987527ecf09887fa",
